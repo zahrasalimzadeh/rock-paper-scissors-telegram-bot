@@ -59,35 +59,6 @@ Each round, the user picks Rock, Paper, or Scissors and the bot picks randomly. 
 
 ---
 
-## 🔐 Bot Token Setup
-
-Create a `.env` file in the project root with your Telegram bot token:
-
-```
-TOKEN=your_telegram_bot_token_here
-```
-
-The bot reads it in `bot.py` via:
-
-```python
-load_dotenv()
-TOKEN = os.getenv("TOKEN")
-```
-
-> ⚠️ Make sure `.env` and `token.txt` are listed in `.gitignore` so your token stays private.
-
-## 🔐 تنظیم توکن ربات
-
-یک فایل `.env` در ریشه‌ی پروژه بسازید و توکن ربات تلگرام خود را در آن قرار دهید:
-
-```
-TOKEN=your_telegram_bot_token_here
-```
-
-> ⚠️ مطمئن شوید فایل‌های `.env` و `token.txt` در `.gitignore` قرار دارند تا توکن شما فاش نشود. هرگز این فایل‌ها را در گیت‌هاب منتشر نکنید.
-
----
-
 ## 📂 Project Structure
 
 ```
