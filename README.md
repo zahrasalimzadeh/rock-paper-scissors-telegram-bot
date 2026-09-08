@@ -59,12 +59,6 @@ Each round, the user picks Rock, Paper, or Scissors and the bot picks randomly. 
 
 ---
 
-## 🎥 Demo | دمو
-
-*(Add a screenshot or GIF of the bot in action here)*
-
----
-
 ## 👩‍💻 Developer | توسعه‌دهنده
 
 **Zahra Salimzadeh**
