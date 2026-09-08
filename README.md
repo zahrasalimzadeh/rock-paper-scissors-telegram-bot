@@ -50,15 +50,11 @@ Each round, the user picks Rock, Paper, or Scissors and the bot picks randomly. 
 
 ---
 
-## 🛠 Technologies Used
+🛠 Technologies Used | تکنولوژی‌های استفاده‌شده
 
 - Python
 - [pyTelegramBotAPI](https://pypi.org/project/pyTelegramBotAPI/) (`telebot`)
 
-## 🛠 تکنولوژی‌های استفاده‌شده
-
-- Python
-- [pyTelegramBotAPI](https://pypi.org/project/pyTelegramBotAPI/) (`telebot`)
 
 ---
 
