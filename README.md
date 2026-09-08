@@ -19,7 +19,7 @@ A Telegram bot that lets users play Rock-Paper-Scissors against the bot, built w
 - ✅ Secure token handling via `.env` / environment variables
 
 ## 📌 امکانات
-🪨🪨🪨🪨🪨🪨🪨
+
 - ✅ بازی سنگ کاغذ قیچی در مقابل ربات با دکمه‌های اینلاین
 - ✅ آیکون‌های اختصاصی برای سنگ، کاغذ و قیچی
 - ✅ انتخاب تصادفی ربات در هر دور
