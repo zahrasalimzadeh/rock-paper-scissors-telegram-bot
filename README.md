@@ -54,13 +54,11 @@ Each round, the user picks Rock, Paper, or Scissors and the bot picks randomly. 
 
 - Python
 - [pyTelegramBotAPI](https://pypi.org/project/pyTelegramBotAPI/) (`telebot`)
-- python-dotenv (environment variable management)
 
 ## 🛠 تکنولوژی‌های استفاده‌شده
 
 - Python
 - [pyTelegramBotAPI](https://pypi.org/project/pyTelegramBotAPI/) (`telebot`)
-- python-dotenv (مدیریت متغیرهای محیطی)
 
 ---
 
