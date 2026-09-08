@@ -16,7 +16,7 @@ A Telegram bot that lets users play Rock-Paper-Scissors against the bot, built w
 - ✅ Sends photo results for both the user's and bot's choice
 - ✅ Dedicated win image shown for the round's winner
 - ✅ Instant rematch — a new keyboard appears after every round
-- ✅ Secure token handling via `.env` / environment variables
+
 
 ## 📌 امکانات
 
@@ -26,7 +26,7 @@ A Telegram bot that lets users play Rock-Paper-Scissors against the bot, built w
 - ✅ ارسال عکس انتخاب کاربر و انتخاب ربات
 - ✅ نمایش تصویر اختصاصی برای برنده‌ی هر دور
 - ✅ امکان بازی دوباره بلافاصله بعد از هر دور
-- ✅ مدیریت امن توکن با فایل `.env`
+
 
 > ℹ️ این نسخه از ربات دکمه‌ی دعوت دوستان داخل کد ندارد. تصویر «جمع دوستان.jpg» به‌عنوان عکس پروفایل ربات در تلگرام استفاده شده است.
 
